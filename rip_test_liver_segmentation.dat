@@ -1,0 +1,10 @@
+# Quality measures of liver segmentation methods for scales of variability
+# First line always refers to the name of quality measured
+# Second line stores the values of scales of noise (with name at the first pos)
+# Then, algorithms' quality measures are enumerated following these scales (no limit on numbers) 
+# Important: values are seperated by tabs (\t)
+Dice
+Liver variability	0.25	0.5	0.75	1	1.6	2.63	3.74	3.95	4.1	4.69	4.79	4.88	5.49	5.95	6.42	6.77	7.06	7.37	8.52	9
+MultiVar	94	90	92.0916	91.732	95.3708	95.3721	93.7945	92.985	93.4042	95.8556	94.1146	96.0183	95.3639	86.4506	90.5175	92.9795	92.3665	90.9774	90.1586	90.4932
+SmartPaint	93	92.5	90	91	80.6671	85.4201	91.0875	93.6161	92.2028	93.7228	90.2645	83.6534	86.2236	91.9838	87.1034	88.53	85.7026	92.7969	93.3154	93.3688
+

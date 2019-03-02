@@ -1,0 +1,9 @@
+# Quality measures for 5 virtual scales of noise
+# First line always refers to the name of quality measured
+# Second line stores the values of scales of noise (with name at the first pos)
+# Then, algorithms' quality measures are enumerated following these scales (no limit on numbers) 
+# Important: values are seperated by tabs (\t)
+Quality
+Uncertainty scale 	0.25	0.5	0.75	1
+Algorithm 1	94	90	92.1	91.7
+Algorithm 2	93	92.5	90	91
